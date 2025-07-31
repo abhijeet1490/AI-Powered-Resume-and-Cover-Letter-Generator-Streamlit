@@ -29,7 +29,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 
 ### 4. Run the Application
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Usage
